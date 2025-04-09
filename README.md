@@ -31,5 +31,5 @@ A C++ implementation of an inventory management system for Rwanda Coding Academy
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rca-inventory-system.git
-   cd rca-inventory-system
+   git clone https://github.com/BYUMVUHOREAimable/DSAPratcicalNESA2023.git
+   cd DSAPratcicalNESA2023
